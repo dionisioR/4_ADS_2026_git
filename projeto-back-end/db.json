@@ -1,0 +1,62 @@
+{
+  "autores": [
+    {
+      "id": "1",
+      "nome": "Machado de Assis",
+      "nacionalidade": "Brasileira",
+      "dataNascimento": "21/06/1839"
+    }
+  ],
+  "livros": [
+    {
+      "id": "1",
+      "titulo": "Dom Casmurro",
+      "anoPublicacao": 1899,
+      "genero": "Literatura brasileira",
+      "autorId": 1
+    },
+    {
+      "id": "2",
+      "titulo": "Memórias Póstumas de Brás Cubas",
+      "anoPublicacao": 1881,
+      "genero": "Romance",
+      "autorId": 1
+    },
+    {
+      "id": "3",
+      "titulo": "A Hora da Estrela",
+      "anoPublicacao": 1977,
+      "genero": "Romance",
+      "autorId": 2
+    },
+    {
+      "id": "4",
+      "titulo": "1984",
+      "anoPublicacao": 1949,
+      "genero": "Ficção científica",
+      "autorId": 3
+    },
+    {
+      "id": "5",
+      "titulo": "Animal Farm",
+      "anoPublicacao": 1945,
+      "genero": "Fábula política",
+      "autorId": 3
+    },
+    {
+      "id": "6",
+      "titulo": "O Alienista",
+      "anoPublicacao": 1882,
+      "genero": "Romance",
+      "autorId": 1
+    },
+    {
+      "id": "7",
+      "titulo": "Perto do Coração Selvagem",
+      "anoPublicacao": 1943,
+      "genero": "Romance",
+      "autorId": 2
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
