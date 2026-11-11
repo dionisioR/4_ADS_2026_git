@@ -1,0 +1,12 @@
+.container{
+    /* border: 1px solid red; */
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1{
+    font-size: 75px;
+    margin: 0 10px;
+}
